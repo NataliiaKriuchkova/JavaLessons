@@ -1,0 +1,16 @@
+git init - create local repo
+git status - check repo's status
+git add file_name - add file to index
+git diff - show changes in files
+git commit -m"Message for commit" - create commit
+git log --graph - show commit's tree
+git checkout hash-sum-commit - move to commit with given hash-sum-commit
+gitk - show editor
+git push url_remote_repo or pseudonim_remote_repo branch - push commits to remote repo
+git clone url_remote_repo name_dir - clone remote repo
+git remote add name_pseudonim url_remote_repo - create pseudonim for url
+git remote -v - show pseudonims
+touch filename(with or without extension) - create file
+1) git add
+2) git commit
+3) git push

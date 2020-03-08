@@ -1,0 +1,7 @@
+alt + insert - create anything(constructor, getter/setter, file, dirs etc.)
+ctrl + y - delete line
+ctrl + d - duplicat line
+ctrl + p - show incoming params
+ctrl + n - find class
+ctrl + alt + l - format code
+ctrl + shift + F10 - run code

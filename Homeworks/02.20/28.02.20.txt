@@ -1,0 +1,20 @@
+Создать класс Банковский счет.
+Установить изначально сумму для счета - 200$
+Создать метод, который будет отнимать от счета сумму. Если денег недостаточно,
+тогда написать в консоль - "Пополните счет".
+Счет можно пополнить другим методом.+
+
+1) Write Computer class, the attributes of this class is manufacturer (of enum type),
+serialNumber (of int type), price (of float type),
+quantityCPU (of int type) and frequencyCPU (of int type).
+
+2) The fields Computer class need to be encapsulated.
+ Add to Computer class getters and setters methods. Use correct access modifiers.
+3) Write a program to create array of Computer objects (5 pcs.).
+Declare array of Computer objects (5 pcs.), create 5 Computer objects and place it to array.
+4) Write a program that iterate through array of Computer objects and increases by 10 percent field price.
+5) Add to class Computer method void view(){} that prints all fields of object in line.
+Print all info (fields) of all objects in console.+
+
+3) Создать класс Man с полями(ФИО, возраст, должность).
+Создать методы для вывода в консоль ИО, ФИО, ФИО + возраст, ФИО + должность
